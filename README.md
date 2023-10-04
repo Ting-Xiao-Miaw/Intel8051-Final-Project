@@ -21,3 +21,9 @@ A simple music player.
 * The button "D" increases the pitch by a semitone. After reaching the highest point, it will decrease by one semitone.
 * The button "E" start to record the tone you played. Press it again will end the record.
 * The button "F" play the tone store in the record.
+
+## Display
+* The first digit in the 7-segment LED displays the current octave level.
+* The second digit in the 7-segment LED displays the pitch currently playing.
+* The third digit in the 7-segment LED displays the displacement of the semitone.
+* The fourth digit in the 7-segment LED displays the mode of the music player. (normal -- 0, recording -- 1)
