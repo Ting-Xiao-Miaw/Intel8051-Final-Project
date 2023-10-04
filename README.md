@@ -7,7 +7,7 @@ A simple music player.
 ![image](https://github.com/Ting-Xiao-Miaw/Intel8051-Final-Project/blob/main/.resource/8051.jpg)
 
 ## Demonstration
-![Demonstration Video](https://youtube.com/shorts/D3YwLQlhVGg?feature=share)
+[Demonstration Video](https://youtube.com/shorts/D3YwLQlhVGg?feature=share)
 
 ## Enviroment
 * Language: C
